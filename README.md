@@ -45,8 +45,27 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/94911373/0365e8a3-4f2f-4e08-a8a9-fe7581691c07)
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/94911373/ca13dd6f-cd33-4883-a96e-096bee5e6467)
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/94911373/c5ebe4fa-04f5-4315-8327-753a1505dac9)
+
+
+
+
+## Output:
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/94911373/3cf1bde0-8744-4062-b6b9-2ed4598bb098)
+
+
+
+### Name: KATHIRVEL A
+### Register Number: 212221230047
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
